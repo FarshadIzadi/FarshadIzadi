@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FarshadIzadi
+- 👋 Hi, I’m @Farshad Izadi
 - 👀 I’m interested in Microsoft Asp.Net Core, C#, Buisiness logic, System Design, etc...
 - 🌱 I’m currently learning Domain-Driven Design
 - 💞️ I’m looking to collaborate on Domain-Based System Design
